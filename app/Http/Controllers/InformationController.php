@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Count;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
 
@@ -13,7 +14,7 @@ class InformationController extends Controller
         return view('home.test');
     }
 
-    public function result()
+    public function result(Request $request)
     {
 
         $ch = curl_init('http://task/apiTest');
@@ -60,7 +61,7 @@ class InformationController extends Controller
         $count = substr_count($resultFromUrl,$word);
 
 
-        $data = ["count" => $count];
+        $data = ["count" => $count,'word'=>$word];
 
         $data_string = json_encode ($data, JSON_UNESCAPED_UNICODE);
 
@@ -91,8 +92,19 @@ class InformationController extends Controller
 
     public function posTtestPost(Request $request){
 
+
+
+        $save = new Count();
+
+        $save->word = $request->word;
+        $save->count = $request->count;
+
+        $save->save();
+
         Log::info("Обработка формы");
         Log::info($request->count);
+        Log::info($request->word);
+
 
     }
 

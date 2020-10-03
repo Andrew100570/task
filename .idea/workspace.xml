@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f9c9ba8-26e9-435d-81e0-f1b56b2d2f72" name="Default Changelist" comment="" />
+    <list default="true" id="eb464953-1665-4e2d-8330-44a2c3994e53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_28_09_2020__14_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/InformationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/InformationController.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +15,9 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -102,7 +110,7 @@
       <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
     </include_path>
   </component>
-  <component name="ProjectId" id="1i8cXpjt8RbVdeUvv1NoRnVK6VZ" />
+  <component name="ProjectId" id="1iNMY6JmAwDYiIfEX67Wvnq8ZbP" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -123,12 +131,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1f9c9ba8-26e9-435d-81e0-f1b56b2d2f72" name="Default Changelist" comment="" />
-      <created>1601292701426</created>
+      <changelist id="eb464953-1665-4e2d-8330-44a2c3994e53" name="Default Changelist" comment="" />
+      <created>1601743640667</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601292701426</updated>
-      <workItem from="1601292702466" duration="975000" />
+      <updated>1601743640667</updated>
+      <workItem from="1601743641717" duration="5497000" />
     </task>
     <servers />
   </component>
@@ -136,17 +144,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="729" y="311" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601292800864">
+    <state x="729" y="311" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601747368471">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="729" y="311" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601292800864" />
-    <state x="774" y="300" width="424" height="520" key="FileChooserDialogImpl" timestamp="1601292769027">
+    <state x="729" y="311" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601747368471" />
+    <state x="774" y="300" width="424" height="520" key="FileChooserDialogImpl" timestamp="1601746518385">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="774" y="300" width="424" height="520" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1601292769027" />
-    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1601292902059">
+    <state x="774" y="300" width="424" height="520" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1601746518385" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1601744060938">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601292902059" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1601744060938" />
   </component>
 </project>
