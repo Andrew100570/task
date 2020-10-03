@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb464953-1665-4e2d-8330-44a2c3994e53" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_28_09_2020__14_32.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/InformationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/InformationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home/test.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/test.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601743640667</updated>
-      <workItem from="1601743641717" duration="5497000" />
+      <workItem from="1601743641717" duration="6234000" />
     </task>
     <servers />
   </component>
