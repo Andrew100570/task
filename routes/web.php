@@ -20,4 +20,5 @@ Route::get('/test', 'InformationController@test')->name('test');
 Route::post('/test1', 'InformationController@posTtestPost')->name('postPost');
 Route::get('/apiTest', 'InformationController@apiTest')->name('apiTest');
 Route::get('/result', 'InformationController@result')->name('result');
+Route::get('/view', 'InformationController@view')->name('view');
 

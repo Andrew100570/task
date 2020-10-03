@@ -86,7 +86,7 @@ class InformationController extends Controller
 
         curl_close($curl);
 
-
+        return view('home.result');
     }
 
 
@@ -117,4 +117,13 @@ class InformationController extends Controller
         return json_encode($a, JSON_UNESCAPED_UNICODE);
 
     }
+
+
+    public function view(){
+
+        $results = Count::all();
+
+        return view('home.view',['results'=>$results]);
+    }
+
 }
